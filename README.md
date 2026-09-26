@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm Maninder Singh
+# Hi, I'm Maninder Singh
 
 **UI/UX & Product Designer | Web Designer | Front-End Development**
 
@@ -65,10 +65,8 @@ I'm interested in UI/UX Designer, Product Designer, Web Designer, and Graphic De
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/maninder-singh-93bab9202/)
-**Mani181/Mani181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
